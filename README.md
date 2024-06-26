@@ -1,9 +1,6 @@
-## Hi there 👋
-
-<!--
-
 https://capsule-render.vercel.app/api?type=waving&height=250&color=FFCDE3%20&text=Casey%27s%20Github%20%F0%9F%91%BB!&section=header&reversal=false&textBg=false&fontAlign=50&fontColor=FFFFFF%20&strokeWidth=0&stroke=ABB6FF%20%20&fontSize=72&fontAlignY=42&rotate=0
 
+<!--
 **sooox89/sooox89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
